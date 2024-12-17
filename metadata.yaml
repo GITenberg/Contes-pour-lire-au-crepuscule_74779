@@ -1,0 +1,39 @@
+_repo: Contes-pour-lire-au-crepuscule_74779
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Avesnes
+    aliases:
+    - Blois, Louis, comte de
+    - Blois, Louis Albert Aymar Léon Marie, comte de
+    - Blois, Louis Albert Aymar Leon Marie, comte de
+    birthdate: 1880
+    deathdate: 1945
+    gutenberg_agent_id: '57641'
+    url: http://www.gutenberg.org/2009/agents/57641
+description: ''
+gutenberg_issued: '2024-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74779'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uiug.30112066389542
+pgterms:marc905: 20240103124500avesnes
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bPerrin et Cie, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'Aux femmes qui ont passé trente ans -- Vesper -- Un faible -- Chez
+  Son Éminence; ou, les plaisirs chimériques: Vidame. Jouvence. La suprême maîtresse.
+  Frisson d''hiver -- Le mur fatal -- Cogne-dur -- Pensée, qui meurs.'
+title: Contes pour lire au crépuscule
+url: http://www.gutenberg.org/ebooks/74779
